@@ -1,0 +1,35 @@
+.skill-row{
+    text-align: left;
+    margin: 100px auto;
+    width: 50%;
+}
+.skill-description{
+    clear:left
+}
+.skill-description1{
+    clear:right
+}
+.bisleri_session{
+    margin-left: 100px;
+    padding-top: 20px;
+    padding-left:70%;
+    /* text-align: center; */
+}
+.vedica_session{
+    padding-top: 20px;
+    margin-left: 100px;
+    /* text-align: center; */
+}
+
+.bisleri_image{
+    float: left;
+    width: 120px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.vedica_image{
+    float: right;
+    width: 120px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
